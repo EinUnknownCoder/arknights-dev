@@ -1,5 +1,18 @@
 # arknights-dev
 
+## Changelog
+
+### V1.1
+- Sanity Calculator Update
+  - New Alert when Sanity Saving isn't necessary
+- Favicon Update
+  - Elite 2 Icon
+- Tab Title Update
+  - Ark of Tomorrow
+
+### V1.0
+- Initial Release
+
 ## Project setup
 ```
 npm install

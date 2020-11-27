@@ -25,7 +25,8 @@
       </v-col>
 
       <v-col cols="12" md="4">
-        <v-alert type="info">Your Sanity should be below {{ allowedSanity }}</v-alert>
+        <v-alert type="warning" v-if="allowedSanity < maxSanity">Your Sanity should be below {{ allowedSanity }}</v-alert>
+        <v-alert type="info" v-else>Spend all your Sanity!</v-alert>
       </v-col>
     </v-row>
   </v-container>

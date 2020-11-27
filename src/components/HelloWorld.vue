@@ -29,6 +29,18 @@
         <v-alert type="info" v-else>Spend all your Sanity!</v-alert>
       </v-col>
     </v-row>
+    <v-row>
+      <v-col cols="12">
+        <h2>Timezones</h2>
+      </v-col>
+      <v-col cols="12" md="6">
+        
+        <v-card>
+          <v-card-title>{{ new Date().toLocaleTimeString("en-GB", {timeZone: "Canada/Yukon", timeZoneName: "short"}) }}</v-card-title>
+          <v-card-subtitle>Arknights Server Time (UTC-7)</v-card-subtitle>
+        </v-card>
+      </v-col>
+    </v-row>
   </v-container>
 </template>
 

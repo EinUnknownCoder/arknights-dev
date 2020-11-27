@@ -2,6 +2,12 @@
 
 ## Changelog
 
+### V1.2
+- Timezones
+  - Shows current time of Arknights Server (UTC-7)
+- Logo
+  - Is saved locally now
+
 ### V1.1
 - Sanity Calculator Update
   - New Alert when Sanity Saving isn't necessary

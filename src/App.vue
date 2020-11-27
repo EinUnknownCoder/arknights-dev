@@ -10,7 +10,7 @@
           alt="Arknights Logo"
           class="shrink mr-2"
           contain
-          src="https://webusstatic.yo-star.com/ark_us_web/pc/img/logo02.924e2f2a.png"
+          src="./assets/logo.jpg"
           transition="scale-transition"
           height="50"
           position="left"

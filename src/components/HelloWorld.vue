@@ -49,7 +49,7 @@ export default {
   name: "HelloWorld",
 
   data: () => ({
-    maxSanity: 128,
+    maxSanity: 130,
     resetHour: 12,
   }),
 

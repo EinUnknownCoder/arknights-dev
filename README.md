@@ -2,6 +2,9 @@
 
 ## Changelog
 
+### V1.3
+- Update Standard Sanity value
+
 ### V1.2
 - Timezones
   - Shows current time of Arknights Server (UTC-7)
